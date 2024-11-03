@@ -26,7 +26,7 @@ const dotsContenair = document.querySelector('.dots');
 let dots;
 
 let currentSlide = 0;
-const sliderImgsPath = 'assets/images/slideshow/';
+const sliderImgsPath = './assets/images/slideshow/';
 
 // Créer les bullets points de manière dynamique selon le nombre de slides
 function createBulletPoints() {
