@@ -73,3 +73,5 @@ arrowRight.addEventListener('click', () => {
 
 //Créer les bullets points
 createBulletPoints();
+//Initialise le slider
+updateSlide(currentSlide);
